@@ -10,3 +10,6 @@ int c,a=2,b=1;
 printf("The Sum IS :",a+b);
 
 ```
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
